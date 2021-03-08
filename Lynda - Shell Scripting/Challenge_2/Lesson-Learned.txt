@@ -1,0 +1,10 @@
+I have learned that shell scripting is very case senstive.
+I even got the varaible naming wrong.
+
+WRONG:
+COUNT = 1
+
+CORRECT :
+COUNT=1
+
+This will still be very hard to get use to it.
