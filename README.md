@@ -1,16 +1,14 @@
+# Purpose
+This repository is to provide evidence that I am learning. At this current stage of time, I am currently working in a service Desk role. I have been scripting a lot more to troubleshoot my problem.
 
-# Upskilling repository
-This repository is to provide evidence that I have been upskilling in case. since I am under lockdown, this would be most appropriate for any job interviews or job opportunity.
+Also, I thought this would be helpful for me to add some of the commands to this repository, so I have an understanding of what I have learned using this command.
 
-## Courses:
-- Lynda - Shell Scipting
-- Link: https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-linux-shell-scripting-2018%3Ftrk%3Dshare_ent_url%26shareId%3DQ2ikLg9BR2u5o59vWH%252B15Q%253D%253D&account=92735081
+## Programming Languages
+- Bash
+- Powershell
+- Rust
+- Python
+- JavaScript - (This might be related to a project at this stage.)
 
-## The file Structure:
-This will include online courses, such as lynda.
-
-# 2023 - 2024 - Upskilling 
-Since I am working full time now.
-
-Will need update this a different.
-Currently in the planning phase
+# 2023 - 2024 - Upskilling
+I am currently working full-time as a Service Desk analyst.

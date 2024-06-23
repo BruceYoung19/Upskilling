@@ -1,9 +1,0 @@
-This challenge was quite simple.
-The only challenge I came across was the thread itself.
-I had to change the timer to about 60 secounds, as it required me to identify
-thread.
-
-I have learned that, there is an easier way.
-I could have used ./proc.sh TIME & 
-
-This would only require me to use one terminal.

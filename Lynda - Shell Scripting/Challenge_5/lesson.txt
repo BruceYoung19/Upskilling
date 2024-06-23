@@ -1,4 +1,0 @@
-For this lesson, I understood how to read the file.
-
-My logic in this one needs a bit of work. As I choose to use the wrong
-place to put the if loop.
